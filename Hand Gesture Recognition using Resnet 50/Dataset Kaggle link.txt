@@ -1,4 +1,0 @@
-*****HG14 (HandGesture14) dataset by OSMAN GÜLER*****
-
-
-https://www.kaggle.com/datasets/gulerosman/hg14-handgesture14-dataset
